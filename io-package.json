@@ -1,8 +1,19 @@
 {
     "common": {
         "name": "doorbird",
-        "version": "0.1.6",
+        "version": "0.1.7",
         "news": {
+            "0.1.7": {
+                "en": "Change line 445 + 446 from log.error to log.debug for no errors on other existing HTTP Calls.",
+                "de": "Änderung der Zeilen 445 + 446 von log.error zu log.debug damit keine Fehler angezeigt werden bei vorhanden HTTP Aufrufen",
+                "ru": "Просто некоторые изменения под капотом",
+                "pt": "Apenas algumas mudanças sob o capô",
+                "nl": "Slechts enkele veranderingen onder de motorkap",
+                "fr": "Juste quelques changements sous le capot",
+                "it": "Solo alcuni cambiamenti sotto il cofano",
+                "es": "Solo algunos cambios bajo el capó",
+                "pl": "Tylko niektóre zmiany pod maską"
+            },
             "0.1.6": {
                 "en": "Just some changes under the hood",
                 "de": "Nur ein paar Änderungen unter der Haube",
